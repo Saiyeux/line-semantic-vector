@@ -1,0 +1,17 @@
+.DS_Store
+
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+inputs/*
+!inputs/.gitkeep
+outputs/*
+!outputs/.gitkeep
+logs/
+predicted_points/
+
+.matplotlib/
