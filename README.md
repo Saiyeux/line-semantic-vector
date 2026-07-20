@@ -2,6 +2,9 @@
 
 Lightweight tools for line-art semantic masks and vector debug previews.
 
+This is a slim fork derived from
+[ivanpuhachov/line-drawing-vectorization-polyvector-flow](https://github.com/ivanpuhachov/line-drawing-vectorization-polyvector-flow).
+
 This repository intentionally avoids the original C++/Qt/Gurobi vectorization
 stack. The current workflow uses Python only:
 
